@@ -1,0 +1,328 @@
+export const Productlist=[
+    {
+    id:1,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGbi_W4bzKVX-zTpTqsb_25nFUhPrzL_4rw&usqp=CAU"
+
+},
+{
+    id:2,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYM1-vBhbvAmEc89_-Hk-nP76ziw15DORwVd_IFhhU6aWLvSE2rw-PONqFlA8oS8S3XEg&usqp=CAU"
+
+},
+{
+    id:3,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2OHAH2S7NPf2pBUrUs0fG4n2SiakG0EeZA&usqp=CAU"
+
+},{
+    id:4,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnye0TQdbFw0m4U65oB9jP7Syvw-lFVW4gw&usqp=CAU"
+
+},
+{
+    id:5,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://guide-images.cdn.ifixit.com/igi/o4OjCNmNeOhvsS1P.medium"
+
+},
+{
+    id:6,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+},{
+    id:7,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+},
+{
+    id:8,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGbi_W4bzKVX-zTpTqsb_25nFUhPrzL_4rw&usqp=CAU"
+
+},
+{
+    id:9,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYM1-vBhbvAmEc89_-Hk-nP76ziw15DORwVd_IFhhU6aWLvSE2rw-PONqFlA8oS8S3XEg&usqp=CAU"
+
+},
+{
+    id:10,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2OHAH2S7NPf2pBUrUs0fG4n2SiakG0EeZA&usqp=CAU"
+
+},{
+    id:11,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnye0TQdbFw0m4U65oB9jP7Syvw-lFVW4gw&usqp=CAU"
+
+},
+{
+    id:12,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://guide-images.cdn.ifixit.com/igi/o4OjCNmNeOhvsS1P.medium"
+
+},
+{
+    id:13,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+},{
+    id:14,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+},    {
+    id:16,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGbi_W4bzKVX-zTpTqsb_25nFUhPrzL_4rw&usqp=CAU"
+
+},
+{
+    id:17,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYM1-vBhbvAmEc89_-Hk-nP76ziw15DORwVd_IFhhU6aWLvSE2rw-PONqFlA8oS8S3XEg&usqp=CAU"
+
+},
+{
+    id:19,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2OHAH2S7NPf2pBUrUs0fG4n2SiakG0EeZA&usqp=CAU"
+
+},{
+    id:20,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnye0TQdbFw0m4U65oB9jP7Syvw-lFVW4gw&usqp=CAU"
+
+},
+{
+    id:21,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://guide-images.cdn.ifixit.com/igi/o4OjCNmNeOhvsS1P.medium"
+
+},
+{
+    id:22,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+},{
+    id:23,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+},    {
+    id:24,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGbi_W4bzKVX-zTpTqsb_25nFUhPrzL_4rw&usqp=CAU"
+
+},
+{
+    id:25,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYM1-vBhbvAmEc89_-Hk-nP76ziw15DORwVd_IFhhU6aWLvSE2rw-PONqFlA8oS8S3XEg&usqp=CAU"
+
+},
+{
+    id:27,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2OHAH2S7NPf2pBUrUs0fG4n2SiakG0EeZA&usqp=CAU"
+
+},{
+    id:28,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:0,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnye0TQdbFw0m4U65oB9jP7Syvw-lFVW4gw&usqp=CAU"
+
+},
+{
+    id:29,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://guide-images.cdn.ifixit.com/igi/o4OjCNmNeOhvsS1P.medium"
+
+},
+{
+    id:30,
+    title:"iphone",
+    price:600,
+    discount:12.9,
+    rating:4.69,
+    stock:94,
+    brand:"apple",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+},{
+    id:31,
+    title:"iphone",
+    price:30000,
+    discount:10.9,
+    rating:4.70,
+    stock:10,
+    brand:"Oppo",
+    category:"smart-phone",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPu9j5-t6sR5q34Cj815SU9wNjl5hkBFPaYA&usqp=CAU"
+
+}
+];

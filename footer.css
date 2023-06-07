@@ -1,0 +1,275 @@
+.foo {
+    width: 100%;
+    min-height: 580px;
+    background: url('E:\project2\pharmacy\src\image\phono-slider-3.webp')
+    rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken; 
+     background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.foo h5 {
+    padding-top: 60px;
+}
+
+.foo h1 {
+    padding-top: 15px;
+}
+
+.foo p {
+    padding-top: 30px;
+}
+.foo input{
+    margin-top: 20px;
+    width: 400px;
+    padding: 15px;
+    border-radius: 25px;
+    position: relative;
+    text-align: center;
+    background-color: antiquewhite;
+    border: none;
+   }
+   .foo input ::placeholder{
+ color: rgba(128, 128, 128, 0.518);
+   }
+   .foo button{
+    position: absolute;
+    width: 39px;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 100px;
+    padding: 12px;
+    margin-top: 25px;
+    margin-left: -44px;
+    /* top: 350px;
+    left: 61%; */
+   } 
+   .foo ul{
+    padding-top: 80px;
+
+  
+   }
+   .foo li{
+  padding: 10px;
+    display: inline;
+  
+   }
+   .foo span{
+    padding: 10px;
+   }
+   /* Login page */
+   .log{
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+   }
+   .login{
+    text-align: center;
+  width: 600px;
+  min-height: 400px;
+  border: 1px solid grey;
+  border-radius: 20px;
+  box-shadow: 0px 0px 0px 0.5px;
+
+   }
+   .login input{
+    width: 80%;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 20px;
+    border:  1px solid gray;
+   }
+   .login input::placeholder{
+    color: gray;
+    letter-spacing: 1px;
+   }
+   .login button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 20px;
+    border: none;
+   }
+   .login li{
+    display: inline;
+    list-style: none;
+    padding: 30px;
+   }
+   
+   .login li:hover{
+    color: red;
+    transition: 1s;
+   }
+   /*Cont  */
+   #cont{
+    width: 100%;
+    min-height: 1000px;
+   }
+   #cont h1{
+    text-align: center;
+   font-size: 24px;
+   letter-spacing: 1px;
+   padding: 60px;
+   }
+   #cont iframe{
+    padding:0 100px;
+   }
+   .sum{
+    text-align: center;
+    margin:20px 120px;
+    padding: 10px;
+  width: 80%;
+  min-height: 400px;
+  border: 1px solid grey;
+  border-radius: 20px;
+  box-shadow: 0px 0px 0px 0.5px;
+
+   }
+   .sum h1{
+    text-align: start;
+    font-size: 24px;
+    margin-left: 68px;
+   }
+   .sum input{
+   min-width: 280px;
+    padding: 10px;
+    margin: 25px;
+    display: inline;
+    border-radius: 20px;
+    border:  1px solid gray;
+   }
+   .sum input::placeholder{
+    color: gray;
+    letter-spacing: 1px;
+   }
+   .sum button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+   }
+
+   .sum textarea{
+    width: 90%;
+    min-height:250px;
+    border-radius: 20px;
+ padding: 30px;
+    color: gray;
+   }
+   /* #cont .row{
+    width: 100%;
+    min-height: 400px;
+    
+   } */
+   
+
+   #cont i{
+    padding: 10px;
+    margin-top: 10px;
+margin-left: 40%;
+    border-radius: 20px;
+    border: 1px solid gray;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+   }
+   .contall{
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 0px 120px;
+   }
+   .contone{
+    flex: 1;
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 20px;
+   }
+   .conttwo{
+    flex: 1;
+    border: 1px solid gray;
+    margin: 10px 40px;
+    border-radius: 20px;
+   }
+   .contthre{
+    border: 1px solid gray;
+    border-radius: 20px;
+    flex: 1;
+    margin: 10px;
+   }
+   #cont  i:hover{
+    background-color: red;
+    color: white;
+
+   }
+
+   #cont  p{
+    color: gray;
+    text-align: center;
+   }
+   /* #cont .row div{
+    
+    border: 1px solid rgba(128, 128, 128, 0.579);
+    padding: 5px;
+    padding-left: 20px;
+    margin: 40px;
+    border-radius: 20px;
+   } */
+
+    /* faq */
+    .first{
+      width: 100%;
+      min-height: 400px;
+      display: flexbox;
+      text-align: center;
+    }
+    .first h1{
+ padding: 10px;
+    }
+    .first p{
+      padding: 10px;
+    }
+    .order {
+      text-align: center;
+     
+      width: 100%;
+    
+      min-height: 200px;
+  
+      color:black;
+    }
+    .order h2{
+      color: white;
+      background-color: black;
+      min-height: 20px;
+      padding: 10px;
+      margin: 20px;
+      letter-spacing: 1px;
+    }
+    .order p{
+      text-align: start;
+      padding: 10px;
+      margin: 20px;
+      /* display: none; */
+
+    }
+    /* .order h2:hover .order p{
+      display: inline;
+    } */
+          /* Coman */
+          button{
+            background-color: black;
+            color: white;
+           }
+        button:hover{
+            background-color: red;
+            transition: 1s;
+        }
+        /* ____________________________________________ */
